@@ -1,0 +1,10 @@
+# Compiled program
+smartcare
+*.o
+
+# Local runtime records; do not commit real patient data
+data/*.txt
+
+# Editor/system files
+.vscode/
+.DS_Store
